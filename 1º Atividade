@@ -1,20 +1,194 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
+#Introdução
 
-    <title>Sobrevivencia</title>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Green Hell</title>
 </head>
 <body>
-    <h1>Bem Vindo a Selva!!</h1>
+ 
+<h1><u>Bem vindo a Selva!!</u></h1>
 
-     <p><b>Nessa joranda você terá que enfrentar os perigos da selva para sair com vida ou não!</b></p>
-     <hr>
+<p><mark style="background-color: green;"><b>CONTEXTO:</b></mark></p>
+<p> Durante uma viagem de negócios ao exterior, algo inesperado aconteceu. O avião em que você estava começou a tremer violentamente, e uma das turbinas falhou. O pânico tomou conta dos passageiros enquanto a aeronave perdia altitude rapidamente, mergulhando em direção à implacável selva amazônica.</p>
 
-     <p><b>CONTEXTUALIZAÇÃO:</b> Você estava indo para uma viagem de negocios na Florida - EUA e derrepente a turbina direita do seu avião começa sair uma fumaça preta e logo em seguida voce percebe que o avião começa a perder altitude e repentinamente cai as mascara de emergencia e quando voce percebe seu avião caiu no centro da floresta Amazonica não sobrando sobreviventes alem de você e agora voce precisara sobreviver sozinho com os perigos da selva! </p>
+    <p>A colisão com a copa das árvores partiu o avião ao meio antes de finalmente se chocar contra o solo. Você acorda atordoado, sem sinais de outros sobreviventes.</p>
+    
+    <p>Sobreviver agora é sua prioridade absoluta. Cada decisão que tomar pode significar a diferença entre a vida e a morte, em um lugar onde a civilização parece distante e as leis da selva prevalecem. A jornada que se inicia não será apenas física, mas também mental, testando seus limites enquanto enfrenta perigos desconhecidos em um ambiente onde o menor erro pode ser fatal. </p>
 
-     <a href="">Aperte aqui para começar </a>
-
-
+    <a href="file:///D:/Codigos/Atividade%201/Ato%201.html"> <b>VAMOS INICIAR SUA JORNADA?</b></a>
 
 </body>
 </html>
+
+
+
+
+#Ato 1 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Ato 1 </title>
+</head>
+<body>
+    
+    <h1>Queda do avião</h1>
+
+    <p>Você acabou de acordar após o acidente. O que você fará primeiro? </p>
+    <br>
+    <p> <ul><li>Revistar os destroços do avião em busca de recursos</li></ul></p>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%201%20pt1.html">
+        <img src="https://img.freepik.com/premium-photo/warplane-wreckage-dense-forest-created-with-generative-ai_419341-13720.jpg" sizes="500px" width="500px"> </a>
+
+<br> <br> <hr> 
+
+<p><ul><li>Deixar o local do acidente e adentrar na floresta sem rumo, em busca de civilização.</li></ul></p>  
+<br>
+<a href="file:///D:/Codigos/Atividade%201/Ato%201%20pt2.html"> <img src="https://postkodstiftelsen.se/wp-content/uploads/2020/12/Serra-do-Divisor11-900x600.jpg" sizes="500px" width="500px"></a>     
+</body>
+</html>
+
+
+
+
+#Ato 1 pt1 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ato 1 Pt - 1</title>
+</head>
+<body>
+    <h1>Parabens!!</h1>
+    <p>Você encontrou muitos recursos importante: </p>
+    <ul>
+        <li>Kit de primeiro socorros </li>
+        <li>Lanterna e Pilhas </li>
+        <li>Fósforos</li>
+        <li>machadinha de sobrevivência</li>
+        <li>Manta térmica</li>
+        <li>Comidas enlatadas</li>
+    </ul>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%202.html">Continuar sua jornada...</a>
+</body>
+</html>
+
+
+
+#Ato 1 pt2 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ato 1 Pt - 2</title>
+</head>
+<body>
+    <h1>Falhou!!</h1>
+    <p> Você se perdeu na floresta, desorientado e sem direção. Infelizmente, foi capturado e devorado por um felino. </p>
+
+    <a href="file:///D:/Codigos/Atividade%201/Atividade%201.html"> <img src="https://pa1.narvii.com/7685/afe42adb1c9d46e7ad1b5e6c7b79838101f3a477r1-448-251_hq.gif" height="800px" sizes="800px"> </a>
+
+</body>
+</html>
+
+
+
+#Ato 2 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Ato 2 </title>
+</head>
+<body>
+    
+    <h1>Abrigo</h1>
+
+    <p>Com a noite chegando, é importante encontrar um lugar seguro para se abrigar. </p>
+    <br>
+    <p><ul><li>Procurar refúgio entre os destroços do avião para se proteger da noite.</li></ul></p>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%202%20pt1.html">
+        <img src="https://th.bing.com/th/id/OIG2.dRJFRoqiuP8C32jV.09m?pid=ImgGn" sizes="500px" width="500px"> </a>
+
+<br> <br> <hr> 
+
+<p><ul><li>Encontre uma caverna adequada para passar a primeira noite e se proteger dos perigos</li></ul> </p>  
+<br>
+<a href="file:///D:/Codigos/Atividade%201/Ato%202%20pt2.html"> <img src="https://th.bing.com/th/id/R.0c46bd0b326b8f68040b8a4a0137f03d?rik=IeeXL5NsIYfceA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-3uNO_Gv2v6o%2fU1qi3-62ThI%2fAAAAAAAAONE%2fBXtc4s-07q4%2fs1600%2fMina%2bde%2bSanta%2bCatalina1.JPG&ehk=yO8w7Va6C3HKels%2bLEkaD%2bGSNR%2fhHc2kj63bGVqWTHk%3d&risl=&pid=ImgRaw&r=0" sizes="500px" width="500px"></a>     
+</body>
+</html>
+
+
+
+
+#Ato 2 pt1 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ato 2 Pt - 1</title>
+</head>
+<body>
+    <h1>Parabens!!</h1>
+    <p>Você passou a noite muito bem, conseguiu fazer fogo e teve um sono tranquilo. </p>
+<img src="https://media.tenor.com/images/3cff058ec719177fd76b75cd43cbb6dd/tenor.gif" width="500px" sizes="500px">
+<br> <br>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%203.html"><b>Continuar sua jornada...</b></a>
+</body>
+</html>
+
+
+
+
+#Ato 2 pt2--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ato 2 Pt - 2</title>
+</head>
+<body>
+    <h1>Parabens!!</h1>
+    <p>Você passou a noite. Embora você não tenha conseguido fazer fogo devido à umidade e tenha tido um sono conturbado com muitos macacos berrando, conseguiu enfrentar a situação.</p>
+<img src="https://i.gifer.com/15Kt.gif" width="500px" sizes="500px">
+<br> <br>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%203.html"><b>Continuar sua jornada...</b></a>
+</body>
+</html>
+
+
+
+#Ato 3 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Ato 3</title>
+</head>
+<body>
+    
+    <h1>***</h1>
+
+    <p>  </p>
+    <br>
+    <p><ul><li>Procurar refúgio entre os destroços do avião para se proteger da noite.</li></ul></p>
+    <a href="file:///D:/Codigos/Atividade%201/Ato%202%20pt1.html">
+        <img src="https://th.bing.com/th/id/OIG2.dRJFRoqiuP8C32jV.09m?pid=ImgGn" sizes="500px" width="500px"> </a>
+
+<br> <br> <hr> 
+
+<p><ul><li>Encontre uma caverna adequada para passar a primeira noite e se proteger dos perigos</li></ul> </p>  
+<br>
+<a href="file:///D:/Codigos/Atividade%201/Ato%202%20pt2.html"> <img src="https://th.bing.com/th/id/R.0c46bd0b326b8f68040b8a4a0137f03d?rik=IeeXL5NsIYfceA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-3uNO_Gv2v6o%2fU1qi3-62ThI%2fAAAAAAAAONE%2fBXtc4s-07q4%2fs1600%2fMina%2bde%2bSanta%2bCatalina1.JPG&ehk=yO8w7Va6C3HKels%2bLEkaD%2bGSNR%2fhHc2kj63bGVqWTHk%3d&risl=&pid=ImgRaw&r=0" sizes="500px" width="500px"></a>     
+</body>
+</html>
+
